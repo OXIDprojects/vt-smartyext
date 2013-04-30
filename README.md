@@ -1,4 +1,4 @@
-vt Smarty Extension Demo (module for OXID eSales)
+vt Smarty Extension Demo (module for OXID eShop)
 ------------
 shows you how to extend smarty with custom plugins (blocks, functions and modifierts) and keep the functions inside the module folder
 
